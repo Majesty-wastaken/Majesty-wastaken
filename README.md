@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Majesty-wastaken.
 - 👀 I’m interested in CATS.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Projects.
+- 💞️ I’m looking to make great Projects.
 - 📫 How to reach me No Where.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I LIKE CATS
