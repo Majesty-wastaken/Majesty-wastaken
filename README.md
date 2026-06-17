@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Majesty-wastaken.
-- 👀 I’m interested in CATS.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to make great Projects.
-- 📫 How to reach me No Where.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I LIKE CATS
+I'm a WE Applied Technology School Graduate, I major in Programming and Web development. I mainly worked on private projects, but I aim to work with a team someday and build a career for myself.
 
-<!---
-Majesty-wastaken/Majesty-wastaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects in progress.
+
+Front-end: HTML, CSS, JavaScript
+- Frameworks & Libraries: Bootstrap, React.JS
+Back-end: PHP, Node.js
+- Frameworks & libraries: Laravel, Express
+Core Concepts: Software Testing, Problem Solving,
+Data Structure, Algorithm, Design Patterns
+Databases: MySQL
+
+Contact
+Linkedin: www.linkedin.com/in/majesty-abdelmaseh
