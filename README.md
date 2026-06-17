@@ -3,26 +3,25 @@ I'm a WE Applied Technology School Graduate, I major in Programming and Web deve
 
 #### Projects in progress.
 
-## Front-end:
+## Front-end Technologies:
 - HTML
 - CSS
 - JavaScript
-#### - Frameworks & Libraries:
-Bootstrap, React.JS
-## Back-end:
+- Bootstrap
+- React.JS
+## Back-end Technologies:
 - PHP
 - Node.js
-#### - Frameworks & libraries:
 - Laravel
 - Express.JS
-## Core Concepts:
+- MySQL
+
+## Programming Concepts:
 - Software Testing
-- Problem Solving
+- Design Patterns
 - Data Structure
 - Algorithm
-- Design Patterns
-## Databases:
-- MySQL
+- Problem Solving
 
 ## Contact
 #### Linkedin: www.linkedin.com/in/majesty-abdelmaseh
